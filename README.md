@@ -7,9 +7,14 @@ Using neural networks to predict heart attacks using the <a href="https://www.ka
 ```sh
 python -m venv venv
 ```
-2. Activate the virtual environment (if in windows):
+2. Activate the virtual environment:
+if in windows:
 ```sh
 venv\Scripts\activate.bat
+```
+if in linux:
+```sh
+source venv/bin/activate
 ```
 3. Install the mandatory libraries to run the script:
 ```sh
