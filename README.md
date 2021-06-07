@@ -20,4 +20,3 @@ source venv/bin/activate
 ```sh
 pip install -r requirements.txt
 ```
-You are now ready to start using it.
